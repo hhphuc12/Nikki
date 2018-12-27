@@ -1,0 +1,33 @@
+* { padding: 0; margin: 0; }
+html {
+    background: #dee1e6;
+}
+.app-container {
+    background: #dee1e6;
+    position: relative;
+}
+.nikki-body {
+    height: 100vh;
+    padding: 0 5%;
+    position: absolute;
+    top: 73px;
+    width: 100%;
+}
+.nikki-slogan {
+    padding: 15px;
+    background-color: #1b95e0;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+.card-line {
+    height: 1px;
+    margin: 5px 15px;
+    background-color: #b5b8bd;
+}
+.margin-top-7px {
+    margin-top: 7px;
+}
+.list-footer {
+    height: 10px;
+}
